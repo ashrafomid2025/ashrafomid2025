@@ -14,8 +14,9 @@ I'm a passionate Frontend Developer focused on building interactive, fast, and s
 📦 npm, yarn, Vite, Webpack
 </p>
 🌐 Git, GitHub, CI/CD workflows
-
+<bold>
 🚀 Projects
+</bold>
 Take a look at my featured projects below to see how I use React to build clean, functional user experiences.
 
 📈 I'm currently learning:
