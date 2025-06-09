@@ -1,8 +1,7 @@
 <p>👋 Hi there, I'm Mohammad Ashraf Omid</p>
 I'm a passionate Frontend Developer focused on building interactive, fast, and scalable web applications using React.js and modern JavaScript frameworks.
-<p>
-🧠 Tech Stack
-</p>
+
+<p>🧠 Tech Stack</p>
 ⚛️ React.js, Next.js, Redux, Context API
 <p>
 💅 CSS, Tailwind CSS, Styled-Components
