@@ -1,21 +1,20 @@
-<p>👋 Hi there, I'm Mohammad Ashraf Omid</p>
+#👋 Hi there, I'm Mohammad Ashraf Omid
 I'm a passionate Frontend Developer focused on building interactive, fast, and scalable web applications using React.js and modern JavaScript frameworks.
 
 <p>🧠 Tech Stack</p>
-⚛️ React.js, Next.js, Redux, Context API
-<p>
-💅 CSS, Tailwind CSS, Styled-Components
-</p>
-<p>
-⚙️ JavaScript (ES6+), TypeScript
-</p>
-<p>
-📦 npm, yarn, Vite, Webpack
-</p>
-🌐 Git, GitHub, CI/CD workflows
-<p>
-🚀 Projects
-</p>
+
+###⚛️ React.js, Next.js, Redux, Context API
+
+###💅 CSS, Tailwind CSS, Styled-Components
+
+###⚙️ JavaScript (ES6+), TypeScript
+
+###📦 npm, yarn, Vite, Webpack
+
+###🌐 Git, GitHub, CI/CD workflows
+
+##🚀 Projects
+
 Take a look at my featured projects below to see how I use React to build clean, functional user experiences.
 
 📈 I'm currently learning:
@@ -23,12 +22,13 @@ Server-side rendering with Next.js
 
 React performance optimization techniques
 
-Full-stack development with MERN stack
+Devops
 
 📬 Let's connect!
 
 Feel free to reach out or follow me for more React-powered work.
 
+[my portfolio](https://prot-two.vercel.app/)
 ###
 
 
