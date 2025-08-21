@@ -3,15 +3,11 @@ I'm a passionate Frontend Developer focused on building interactive, fast, and s
 
 ### 🧠 Tech Stack
 
- ⚛️ React.js, Next.js, Redux, Context API
-
- 💅 CSS, Tailwind CSS, Styled-Components
-
- ⚙️ JavaScript (ES6+), TypeScript
-
- 📦 npm, yarn, Vite, Webpack
-
- 🌐 Git, GitHub, CI/CD workflows
+- ⚛️ React.js, Next.js, Redux, Context API
+- 💅 CSS, Tailwind CSS, Styled-Components
+- ⚙️ JavaScript (ES6+), TypeScript
+- 📦 npm, yarn, Vite, Webpack
+- 🌐 Git, GitHub, CI/CD workflows
 
 ### 🚀 Projects
 
@@ -19,11 +15,9 @@ Take a look at my featured projects below to see how I use React to build clean,
 
 ### 📈 I'm currently learning:
 
-Server-side rendering with Next.js
-
-React performance optimization techniques
-
-Devops
+- **__Server-side rendering with Next.js__**
+- **_React performance optimization techniques__**
+- **__Devops__**
 
 ### 📬 Let's connect!
 
