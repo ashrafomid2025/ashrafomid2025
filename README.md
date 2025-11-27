@@ -23,7 +23,7 @@ Take a look at my featured projects below to see how I use React to build clean,
 
 Feel free to reach out or follow me for more React-powered work.
 
-- [ my portfolio](https://prot-two.vercel.app/)
+- [ my portfolio](https://www.ashrafomid.me/)
 - [ linkedIn](https://www.linkedin.com/in/m-ashraf-omid-91425b353/)
 
 
