@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Mohammad Ashraf Omid
-I'm a passionate Frontend Developer focused on building interactive, fast, and scalable web applications using **React.js**, **Next.js**, **React Native**, and **Laravel**
+I'm a passionate Developer focused on building interactive, fast, and scalable web applications using **React.js**, **Next.js**, **React Native**, and **Laravel**
 
 ### 🧠 Tech Stack
 
