@@ -1,29 +1,29 @@
 ## 👋 Hi there, I'm Mohammad Ashraf Omid
-I'm a passionate Frontend Developer focused on building interactive, fast, and scalable web applications using React.js and modern JavaScript frameworks.
+I'm a passionate Frontend Developer focused on building interactive, fast, and scalable web applications using **React.js**, **Next.js**, **React Native**, and **Laravel**
 
 ### 🧠 Tech Stack
 
-- ⚛️ React.js, Next.js, Redux, Context API
+- ⚛️ React.js, Next.js, Redux, Prisma
 - 💅 CSS, Tailwind CSS, Styled-Components
-- ⚙️ JavaScript (ES6+), TypeScript
+- ⚙️ JavaScript (ES6+), TypeScript, PHP
 - 📦 npm, yarn, Vite, Webpack
 - 🌐 Git, GitHub, CI/CD workflows
 
 ### 🚀 Projects
 
-Take a look at my featured projects below to see how I use React to build clean, functional user experiences.
+Take a look at my featured projects below to see how I use React, Next.js and Laravel to build clean, functional user experiences.
 
 ### 📈 I'm currently learning:
 
-- **__Server-side rendering with Next.js__**
-- **_React performance optimization techniques__**
+- **__Prisma ORM__**
+- **_React Query (State Management)__**
 - **__Devops__**
 
 ### 📬 Let's connect!
 
 Feel free to reach out or follow me for more React-powered work.
 
-- [ my portfolio](https://www.ashrafomid.me/)
+- [ Personal portfolio](https://www.ashrafomid.me/)
 - [ linkedIn](https://www.linkedin.com/in/m-ashraf-omid-91425b353/)
 
 
