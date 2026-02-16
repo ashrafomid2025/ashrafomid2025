@@ -16,7 +16,7 @@ Take a look at my featured projects below to see how I use React, Next.js and La
 ### 📈 I'm currently learning:
 
 - **__Prisma ORM__**
-- **_React Query (State Management)__**
+- **__React Query (State Management)__**
 - **__Devops__**
 
 ### 📬 Let's connect!
