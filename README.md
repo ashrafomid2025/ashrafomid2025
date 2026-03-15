@@ -26,4 +26,10 @@ Feel free to reach out or follow me for more React-powered work.
 - [ Personal portfolio](https://www.ashrafomid.me/)
 - [ linkedIn](https://www.linkedin.com/in/m-ashraf-omid-91425b353/)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 
