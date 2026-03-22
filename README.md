@@ -26,8 +26,6 @@ Feel free to reach out or follow me for more React-powered work.
 - [ linkedIn](https://www.linkedin.com/in/m-ashraf-omid-91425b353/)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ashrafomid2025)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafomid2025&layout=compact)
 
 
