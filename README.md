@@ -22,7 +22,7 @@ Take a look at my featured projects below to see how I use React, Next.js and La
 
 Feel free to reach out or follow me for more React-powered work.
 
-- [ Personal portfolio](https://www.ashrafomid.me/)
+
 - [ linkedIn](https://www.linkedin.com/in/m-ashraf-omid-91425b353/)
 
 
