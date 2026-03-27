@@ -3,7 +3,7 @@ I'm a passionate Full Stack Developer focused on building interactive, fast, and
 
 ### 🧠 Tech Stack
 
-- ⚛️ React.js, Next.js, Redux, Prisma
+- ⚛️ React.js, Next.js, Redux, Prisma, Laravel, PHP, Nest.js
 - 💅 CSS, Tailwind CSS, Styled-Components
 - ⚙️ JavaScript (ES6+), TypeScript, PHP
 - 📦 npm, yarn, Vite, Webpack
